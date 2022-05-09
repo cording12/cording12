@@ -3,21 +3,20 @@
 Specialising in building web applications, web scraping/bots, and automation software with primary focus on Python and VBA. With a background in graphic design, I marry together the worlds of design and development to create beautiful and performant applications with a key focus on user experience and code robustness.
 
 ### Current Projects ###
-* Property pricing data
-    * A personal project assessing property prices across London to assess whether properties are priced above, below, or at market value against its comparable peers. Using webscraping to extract data from a variety of online sources, data cleaned and assessed in a Streamlit dashboard for a user to easily interact with across their given search parameters.  
+## Work projects
 * Flask based Style Factor/ESG Analysis
     * A complex work project connecting a multitude of databases together to extract data before performing a range of calculations to assess a wide range of style factors and ESG related metrics of a portfolio
 * VBA based fund performance automation
      * Using Excel and VBA only, automating the monthly reporting of approximately 120 different funds to create standardised outputs usable across presentations, sales aids and factsheets. Already this project has cut working times from 1 week to 1 hour with room for further optimisation
+## Personal projects
+* Property pricing data
+    * A personal project assessing property prices across London to assess whether properties are priced above, below, or at market value against its comparable peers. Using webscraping to extract data from a variety of online sources, data cleaned and assessed in a Streamlit dashboard for a user to easily interact with across their given search parameters.  
+* Lost Ark Auto Queue
+    * A 'bot' that launches Lost Ark from a Steam library and queues the user. Periodically sends updates via Discord with screenshots.
+* Netflix Clone
+    * A simplistic Netflix clone made to practice using NextJS
 
-### Previous projects ### 
-
-#### Web Scrapers/Bots ####
-* Graphics card buyer 
-    * With the great graphics card shortage of 2020 and beyond (among other things..), I decided to fight fire-with-fire and take on graphics card scalpers by creating a bot to purchase myself a graphics card. Using PyQT5 as a UI framework, Beautiful Soup for scraping prices and Selenium for the purchase process, I secured a card within a week of running the bot
-
-* Call of Duty: Game stats
-    * Using the Activision API
+**Please note: Most projects are kept private - feel free to ask me if you're interested in seeing more**
 
 ### Languages and Tools ###
 <p align="left">
