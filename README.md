@@ -2,7 +2,6 @@
 
 Specialising in building web applications, web scraping/bots, and automation software with primary focus on Python and VBA. With a background in graphic design, I marry together the worlds of design and development to create beautiful and performant applications with a key focus on user experience and code robustness.
 
-### Current Projects ###
 ## Work projects
 * Flask based Style Factor/ESG Analysis
     * A complex work project connecting a multitude of databases together to extract data before performing a range of calculations to assess a wide range of style factors and ESG related metrics of a portfolio
